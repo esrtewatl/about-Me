@@ -23,6 +23,9 @@ h1{
   width: 50%;
   float:inline-start;
 }
+.shorefish{
+  width: 300px;
+}
 .jazzPic{
   float: right;
   border: solid 2px;
@@ -46,5 +49,5 @@ h1{
 .btmnav{
   width: 300px;
   height:200px;
-  background-color: #fda085;
+  background-color: #ef7b5b;
 }
