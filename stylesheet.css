@@ -22,9 +22,12 @@ h1{
   border-radius: 30%;
   width: 50%;
   float:inline-start;
+  
 }
 .shorefish{
   width: 300px;
+ float: right;
+ border-radius: 20px;
 }
 .jazzPic{
   float: right;
